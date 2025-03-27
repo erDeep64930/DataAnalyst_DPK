@@ -1,0 +1,20 @@
+Resume building should consist of :-
+
+1. Header
+ Deepak kumar
+ Data scientist
+ erdeep64930@gmail.com | 9939183692 | linkedin | New Delhi | Portfolio
+
+ Summary:-
+ Aspiring Data Scientist with a strong foundation in frontend development using React. Passionate about leveraging data-driven insights to solve complex problems and drive business decisions. Seeking to transition into a data science role where I can apply my analytical skills, programming expertise, and machine learning knowledge.
+
+ Experience:-
+
+ Microsoft and Google certified data scientist with 9 years of experience . seekingn to increase data efficiency for your company . Acchivement include creating data regression model to predict company stock price with 25% more accuracy than histogram average . achived 20 % improvemnet in investment returns across all clients. hoghly skilled in ML, Data Visualisation , and creative thinking.
+
+ Fresher:-
+
+ Junoir data scientist with 3+ yeas of experience in project work and freelance jobs , beat 200+ statistics professor and big data professional in NCAA pool , by building model that fir the problem best. skilled inML , Statistics , problwm solving and programming.
+
+
+ 

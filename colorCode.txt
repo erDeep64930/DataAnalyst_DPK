@@ -1,0 +1,6 @@
+***************************
+EMOJI/QOUTE:orange:#fba303;
+BORDER:blue:#0e536b;
+TEXT:white:#e8e8e8;
+BACKGROUND:black:#000000;
+****************************

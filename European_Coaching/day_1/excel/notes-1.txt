@@ -1,0 +1,84 @@
+Microsoft Excel 
+
+--> Every formula start with (=sign)
+
+--> Name of the files :-
+
+ a.) Microsoft word / MS word = document 
+ b.) Microsoft Powerpoint = slide
+ c.) Microsoft Excel = Sheet
+
+ --> Group of Sheet is called = workbook
+
+ --> In one sheet there are = 16384 columns
+ --> in one Sheet there are = 1048576 rows
+
+ ______________________________
+
+ Navigation key:-
+
+ ctrl + (right arrow) =  last columns
+ ctrl + (left arrow) =  first columns
+ ctrl + (up arrow) =  first rows
+ ctrl + (down arrow) =  last rows
+
+ ----------------------------------
+
+ In A4 sheet page :-
+
+# portraits mode:-
+  
+ column will exist till "I"
+ Rows number will be till "50"
+
+# landscape mode:-
+  
+ column will exist till "N"
+ Rows number will be till "33" 
+
+ -------------------------------------
+
+ TO CHANGE THE MODE OF PAGE LAYOUT 
+ --> page layout --Orientation
+
+--------------------------------------
+
+TO SELECT TWO OR CELLS 
+->home menu -> merge and center
+
+________________________________
+
+to see the preview [ctrl+ f2]
+
+________________________________
+
+Select the cell - for applying the border:- [alt + h+b+a]
+
+-----------------------------------------
+Now to perform the Mathematical operation :-
+
+--> Every formula start with (=sign)
+
+eg:-
+    1.)  =sum(starting_sub:ending_sub)
+    2.)  =average(starting_sub:ending_sub)
+    3.)  =max(starting_sub:ending_sub)
+    4.)  =min(starting_sub:ending_sub)
+
+-->To find the percentage:-
+ = sum(total_obtain_mark*100/total_marks)
+
+ eg:- =sum(422*100/500)
+
+
+ _____________________________________
+
+ now applying the if else condition:-
+
+ if(i2>299,"1st division",if(i2>224,"2nd division",if(i2>164,"third division",if(i2<165,"fail"))))
+
+ --------------------------- 
+
+ TO PREVIEW THE SHEET: [ctrl+f2]
+
+

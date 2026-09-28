@@ -1,0 +1,45 @@
+`````````````````
+learing about git and github
+
+1. VCS - VERSION CONTROL SYSTEM
+
+VCS is used to track the work done by the user or employee. -> daily report 
+
+VCS - we used is git hub
+
+___________________
+
+how to set up git hub:-
+
+download git :-
+
+git --version 
+to check the version used in this system
+
+git config --global user.name"Deepak kumar"
+git config --global user.email"erdeep64930@gmail.com"
+
+____________________________
+
+how to set the git :
+git init
+git add index.html
+
+U-untracked (mean file av track ni ho rha h = git track ni kr rha h)
+M-modified
+A-added / track
+
+
+commit - (ek time k code o likh liya h or o submit kr diya h)
+
+git commit -m "first commit"
+
+
+git diff- it is used to check what all you have done in the code
+
+
+______________
+
+git remote add origin "link"
+git branch -M main
+git push -u origin main

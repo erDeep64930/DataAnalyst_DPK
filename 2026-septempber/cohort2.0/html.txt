@@ -1,0 +1,32 @@
+HTML - hyper text markup language 
+
+<> greater than and less than k use karke humlog use karte h coding k liye
+they are called marker 
+therefore it is marker language it is note a coding language.
+
+<p>this is a paragraph</p> - p tag mean paragraph tag 
+
+SEO  search engine optimization.
+therefore html come in this place for SEO.
+
+
+boiler plate - developer code .
+shift +1 =!enter 
+boiler palte will be build default.
+----------------------------------------------
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p>this is paragraph</p>
+    <s>this is strikethrough text</s>
+    <i>this is italic text</i>
+</body>
+</html>
+--------------------------------------------------
+<h1>h1-h6</h1>
+total 6 heading are there in html

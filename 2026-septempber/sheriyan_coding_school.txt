@@ -43,3 +43,39 @@ ______________
 git remote add origin "link"
 git branch -M main
 git push -u origin main
+
+=========
+git log --oneline
+ this is used to check whatever commit have been pushed
+
+
+git pull is used to get the latest push done by other user by their system to get its response we use git pull
+
+---------------
+
+http and https:-
+
+web development :-
+
+code editor we used VS code
+browser - brave
+
+frontend + backend 
+frontend :- 
+html -skeleton 1st entry point
+css - style
+js - 
+react
+
+
+
+html course :-
+ as per company require :-
+
+
+<body>
+<heading>h1-h6</heading>
+<paragraph> p b i u sup sub lorem</paragraph>
+ol li ul comment
+a href 
+</body>
